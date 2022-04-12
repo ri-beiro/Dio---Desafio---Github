@@ -1,0 +1,66 @@
+
+                                          Aula de Programação
+
+Pensamento computacional = Resolução de problemas
+Refere-se ao processo de pensamento envolvido na expressão de soluções em passos computacionais 
+ou algoritimos que podem ser implementados no computador.
+
+4 pilares do pensamento computacional
+
+-Decomposiçao : dividir um problema complexo em subproblemas
+
+encontrar uma forma mais facil de solucionar o problema, dividindo ele em pequenas partes.
+1-estudar e explorar o problema e dividi-lo.
+2-combinar os elementos recompondo no modelo original
+3-ordenar a execução de tarefas
+
+
+-Reconhecimento de padrões : Similaridades ou Diferenças entre os problemas
+
+encontrar um padrão com similaridades ou diferenças
+como : mesma classe ou grupo social ou categorias como as caracteristicas de cada objeto.
+
+Humanos
+reconhecimento por grau de similaridade, comparação.
+
+Computador
+Representar atributos, aprendizado sobre o conceito associado ao objeto determinado.
+
+
+-Abstração : leva-la ao abstrato, modelar o conceito
+
+Classificação de elementos (classes)
+Observar diferentes elementos, avaliando caracteristicas e propriedades em separado.
+tirar do concreto e usa-lo em solução de problemas.
+
+Generalização : consiste em reunir numa classe geral, um conjunto de seres ou fenomenos similares.
+
+Abstração : focar em pontos essenciais e não aos detalhes
+
+
+-Design de Algoritimos : Automatizar, definir o passo a passo para a resoluçâo do problema
+
+o computador precisa de instruçoes detalhadas para receber os dados e conseguir executar os processos.
+todos os algoritimos devem ser entendidos por humanos e maquinas.
+
+Algoritimo = pseudocodigo, narrativa, fluxograma.
+
+Narrativa = utilização de linguagem natural (diversas interpretações possiveis)
+
+Fluxograma = Utilização de simbolos pré-definidos (conhecimento previo de simbolos e da sua estrutura)
+
+Pseudocodigo = Portugol (Regras definidas e passo a passo a ser seguido)
+
+Algoritimo:
+1-ele é uma sequencia de passos com objetivo definido.
+2-Execução de tarefas especificas
+3-conjunto de operações que resultam em uma sucessão finita de ações.
+
+
+
+*(Proceeso continuo : Definir Solução > Testar a Solução > Aperfeiçoamento da Solução Encontrada)
+
+*Variação dos pilares ( Raciocinio Logico e Refinamento ou Aperfeiçoamento da sua solução)
+
+
+

@@ -1,0 +1,48 @@
+
+Intordução ao portugol:
+
+estrutura de repetição:
+
+executar mais de uma vez o mesmo comando ou conjunto de comandos, 
+de acordo com uma condição ou com um contador.
+
+
+linguagens de programação e portugol :
+
+Alto nivel :
+mais proximas a nossa linguagem
+
+Baixo Nivel :
+mais proximas da linguagem da maquina
+
+Compiladas :
+é uma linguagem que tem que ser traduzido por meio de um processo de compilação
+
+Interpretadas :
+é uma linguagem que é interpretada pelo proprio browser/servidor, executado pelo sistema operacional.
+
+
+O que é Portugol :
+
+é uma pseudolinguagem, que permite ao leitor desenvolver algoritmos estruturados em portugues de forma
+simples e intuitiva, independente da linguagem de programação.
+ela permite ao programdor pensar no problema em si e nao no equipamento em que ira executar o algoritmo.
+
+quebra de textos comando : "\n"
+
+
+Desvio condicional CASO :
+
+similar aos comandos de "se" e "senao"
+apesar de suas similaridades ele possui diferentes
+
+
+Matrizes :
+
+é uma coleção de variaveis do mesmo tipo, acessiveis com um unico nome armazenados 
+contiguamente na memoria (seguidas)
+
+
+Os Vetores são matrizes de uma só dimensão
+
+

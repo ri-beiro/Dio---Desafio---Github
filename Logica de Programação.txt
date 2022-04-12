@@ -1,0 +1,68 @@
+
+                                             Aula de Programação
+
+Logica de Programação :
+
+É uma sequencia coerente
+buscar a melhor sequencia de ações para solucionar um problema
+
+Metacognição :
+
+Pensar como você pensa
+utilizar mapas mentais para solucionar problemas mais facil
+
+Abstração : 
+
+é a habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando
+caracteristicas menos importantes.
+
+Algoritimos :
+
+é uma sequencia de passos para resolver um problema. (passo a passo)
+
+
+Pseudocodigo :
+
+forma generica de escrever um algoritimo, utilizando linguagem simples. 
+para ser entendida por qualquer pessoa
+passo a passo
+
+
+Fluxograma :
+
+uma ferramenta para representar graficamentre o algoritimo, isto é, 
+a sequencia logica e coerente do fluxo de dados.
+
+
+Variaveis e Constantes :
+
+é um objeto (uma posição, frequentemente localizada  na memoria)
+(ou um espaço na memoria do computador destinado a um dado que é alterado durante a execução do algoritimo.
+
+podem ser classificadas basicamente de 4 tipos :Numericas, caracteres, alfanumericas ou logicas
+
+Constantes :
+
+que nao se alteram, sempre com o mesmo valor
+
+
+Expressões Aritmeticas :
+
+sao expressoes que utilizam operadores aritmerticos e funçoes aritmeticas envolvendo constancia variavel.
+utilizam numeros como valores
+
+Expressoes literais:
+
+sao expressoes com constante ou  variaveis que tem como resultado valores literais
+utilizam letras e nomes como valores.
+
+
+Concatenação :
+
+é um termo usado em computação para designar a operação de unir o conteudo de duas "Strings"
+"String" é uma sequencia de caracteres
+
+Agrupamento de duas ou mais celulas para criação de uma unica.
+juntar variaveis para uma unica string.
+
+& ou + ou . = usada em algumas linguagens de programação para concatenação

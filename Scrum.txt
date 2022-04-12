@@ -1,0 +1,61 @@
+
+                                             SCRUM
+
+é um dos frameworks de gerenciamento de projetos ageis
+projetos usando equipes pequenoas e multidisciplinares, para produzir os melhores
+resultados.
+
+pilares :
+transparencia
+adaptação
+inspeção
+
+Sprint e Daily Meeting :
+
+formas de reuniões e de se fazer os serviços
+
+Formas de projetos :
+
+Tradicional e Agil
+
+agil responde mais rapidamente ao negocio, traz mais beneficios ao cliente
+
+
+Fundamentos de Projeto Agil :
+
+PO : Product Owner
+representa o profissional que tem a visão do que sera desenvolvido,
+necessidades a serem atendidas.
+
+PO (Product Owner)
+ -Representante da area de negocios
+ -Define as funcionalidades do software
+ -Priorizar as funcionalidades de acordo vom o valor do negocio
+ -Garante que o time de desenvovimento entenda os itens do backlog no nivel necessario
+
+SM (Scrum Master)
+ -
+
+DEV (Time de Desenvolvimento) 
+
+
+Release Planning de multiplas Squads
+varias ideias de varios times, porem o final tem que ser a mesma coisa
+
+Release Planning de Projeto
+PO comanda a release, quebrar as estorias e entregar as estorias de mais valor primeiro
+
+Escopo = Finalidade do projeto
+
+Product Backlog :
+
+é composto por epicos e estorias
+
+epicos : incremento sem muito detalhamento, ajuda a te direcionar doss caminhos que deve seguir
+
+estorias : detalhamento dos epicos, um epico normalmente se divide em varias estorias.
+onde ficam descritos o que deve acontecer e suas regras de negocio.
+
+Epico > Estoria > Tarefa
+
+

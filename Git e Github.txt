@@ -1,0 +1,69 @@
+
+                                               Git e Github
+
+GUI x CLI
+
+Comandos :
+cmd = prompt de comando
+
+Windows
+-cd
+-dir
+-mkdir
+-del / rmdir
+
+Listagem de diretorios ou pastas = dir
+navegar entre as pastas = cd
+Voltar ou retroceder na navegação = cd ..
+limpar a tela ou terminal = cls / ctrl+l
+auto completar = TAB
+criar pasta = mkdir
+deletar arquivos = del
+deletar completamente = rmdir /s /Q
+mostrar caminho percorrido = pwd
+listar = ls
+mover pasta ou arquivo entre pastas = mv
+
+Por baixo dos panos do GIT :
+
+SHA1 = significa Secure Hash Algorithm (algoritmo de HASH Seguro) 
+é um conjunto de funções hash criptograficas projetadas pela NSA do EUA.
+um conjunto de 40 caracteres criptografados. A cada virgula que voce muda no arquivo que contem 
+o SHA1, a encriptação é mudada completamente!
+
+HASH = identificação da string, bloob, tree, commit.
+
+
+BLOB : é um objeto que guarda o conteudo dos objetos, com tamanhos e conteudos.
+guarda o Sha do arquivo
+
+TREE : Armazenam os 'BLOBs', apontando para um deles ou blobs ou outras Trees, ela guarda o nome do arquivo
+
+COMMIT : é o objeto que junta tos, que da sentido a tudo, aponta para as trees, parente, autor, mensagem
+
+
+Chaves SSH e Tokens :
+
+SSH :
+
+forma de estabelecer uma conexão segura entre duas maquinas.
+com duas chaves, uma publica e uma privada.
+
+
+** "Flags" são muito usadas no git e no cmd (se conseguir estude sobre isso Lucas) **
+
+
+Git init : 
+cria 
+inicializa o repositorio
+
+Git add :
+
+
+Git status :
+mostra o status do arquivo, mostra como ele esta
+
+Git remote add :
+
+
+
